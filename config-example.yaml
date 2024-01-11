@@ -1,0 +1,4 @@
+masto_server: 'https://mastodon.social/'
+access_token: 'PASTE_ACCESS_TOKEN_HERE'
+topic_list: ['topic1', 'topic2', 'topic3']
+match_level: 0.8

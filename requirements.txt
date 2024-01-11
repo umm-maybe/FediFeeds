@@ -1,0 +1,6 @@
+Mastodon.py
+bs4
+pyyaml
+langid
+torch
+transformers
