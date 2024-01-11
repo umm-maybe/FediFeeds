@@ -1,2 +1,2 @@
 # FediFeeds
-Scan a Mastodon feed and repost toots matching certain criteria
+Scan a Mastodon feed and take configurable actions on toots matching certain criteria
