@@ -9,6 +9,7 @@ The below instructions assume you have git, Python 3 and Pip already installed.
 ```
 git clone https://github.com/umm-maybe/FediFeeds
 python3 -m venv env
+source env/bin/activate
 pip3 install -Ur requirements.txt
 ```
 
